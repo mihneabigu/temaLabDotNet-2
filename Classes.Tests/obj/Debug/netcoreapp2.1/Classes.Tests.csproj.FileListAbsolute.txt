@@ -1,0 +1,17 @@
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Classes.Tests.deps.json
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Classes.Tests.runtimeconfig.json
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Classes.Tests.runtimeconfig.dev.json
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Classes.Tests.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Classes.Tests.pdb
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Classes.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/bin/Debug/netcoreapp2.1/Classes.pdb
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/obj/Debug/netcoreapp2.1/Classes.Tests.csprojAssemblyReference.cache
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/obj/Debug/netcoreapp2.1/Classes.Tests.csproj.CoreCompileInputs.cache
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/obj/Debug/netcoreapp2.1/Classes.Tests.AssemblyInfoInputs.cache
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/obj/Debug/netcoreapp2.1/Classes.Tests.AssemblyInfo.cs
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/obj/Debug/netcoreapp2.1/Classes.Tests.csproj.CopyComplete
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/obj/Debug/netcoreapp2.1/Classes.Tests.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes.Tests/obj/Debug/netcoreapp2.1/Classes.Tests.pdb

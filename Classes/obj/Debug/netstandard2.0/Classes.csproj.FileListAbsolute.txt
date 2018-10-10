@@ -1,0 +1,9 @@
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/bin/Debug/netstandard2.0/Classes.deps.json
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/bin/Debug/netstandard2.0/Classes.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/bin/Debug/netstandard2.0/Classes.pdb
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/obj/Debug/netstandard2.0/Classes.csprojAssemblyReference.cache
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/obj/Debug/netstandard2.0/Classes.csproj.CoreCompileInputs.cache
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/obj/Debug/netstandard2.0/Classes.AssemblyInfoInputs.cache
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/obj/Debug/netstandard2.0/Classes.AssemblyInfo.cs
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/obj/Debug/netstandard2.0/Classes.dll
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/obj/Debug/netstandard2.0/Classes.pdb

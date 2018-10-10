@@ -1,0 +1,1 @@
+/home/mihnea/Documents/dotNet/temaLab-2/Classes/.sonarqube/out/0
